@@ -49,4 +49,4 @@ The following functionalities and requirements must be implemented:
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License - see the [Licence]((https://github.com/anisafrasheri/StoreManagementDB/blob/06829b05a6a302e70134b3f91383c8b6222756ec/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [Licence](https://github.com/anisafrasheri/StoreManagementDB/blob/06829b05a6a302e70134b3f91383c8b6222756ec/LICENSE) file for details.
