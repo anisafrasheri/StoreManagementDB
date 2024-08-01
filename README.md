@@ -4,37 +4,37 @@ This project aims to create a comprehensive Oracle database schema for managing 
 ## Requirements
 The following functionalities and requirements must be implemented:
 - **Category of Items**
-- Manage categories for items.
+ Manage categories for items.
 - **Items** 
-- Fields: name, category, sale price, unit, etc.
-- Manage market items and their details.
+ Fields: name, category, sale price, unit, etc.
+ Manage market items and their details.
 - **Supplier**
-- Fields: NIPT (tax identification number), name, address, contact information.
-- Manage suppliers providing items to the market.
+ Fields: NIPT (tax identification number), name, address, contact information.
+ Manage suppliers providing items to the market.
 - **Supplies**
-- Record incoming supplies to the market warehouse.
+ Record incoming supplies to the market warehouse.
 - **Warehouse and Inventory**
-- Track the inventory status of items in the warehouse.
+ Track the inventory status of items in the warehouse.
 - **Customer**
-- Fields: first name, last name, phone number, address.
+ Fields: first name, last name, phone number, address.
 - **Membership card with credit**
-- Manage customer information and membership details.
+ Manage customer information and membership details.
 - **Seller**
-- Also serves as a system user.
-- Manage seller details and system access.
+ Also serves as a system user.
+ Manage seller details and system access.
 - **Sales Receipt**
-- Record market sales transactions.
+ Record market sales transactions.
 - **Point of Sale**
-- Location/table of sale.
-- Manage sales points within the market.
+ Location/table of sale.
+ Manage sales points within the market.
 - **Daily Activity Closure**
-- Record the cash register status for each seller at the end of the day.
+ Record the cash register status for each seller at the end of the day.
 - **Supply and Sales Procedures**
-- Procedures to manage supply and sales, including the ability to cancel them by generating corresponding negative value receipts.
-- Implemented through database procedures.
+ Procedures to manage supply and sales, including the ability to cancel them by generating corresponding negative value receipts.
+ Implemented through database procedures.
 - **Trigger for Sales**
-- Ensure no sales can be made if the item quantity in inventory is zero.
-- Implemented using triggers.
+ Ensure no sales can be made if the item quantity in inventory is zero.
+ Implemented using triggers.
 
 ## Getting Started
 1. Setup the Database
